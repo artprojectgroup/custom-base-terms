@@ -31,7 +31,7 @@ Sólo hay que ir a Ajustes -> Enlaces permanentes e indicar las nuevas estructur
 
 == Screenshots ==
 
-1. http://www.artprojectgroup.es/wp-content/artprojectgroup/plugin-custom-base-terms.jpg
+1. screenshot.jpg
 
 == Changelog ==
 
