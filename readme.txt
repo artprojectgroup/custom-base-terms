@@ -31,7 +31,7 @@ Sólo hay que ir a Ajustes -> Enlaces permanentes e indicar las nuevas estructur
 
 == Screenshots ==
 
-1. screenshot.jpg
+1. Captura de pantalla.
 
 == Changelog ==
 
