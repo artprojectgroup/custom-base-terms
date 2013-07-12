@@ -1,5 +1,5 @@
 === Custom Base Terms ===
-Contributors: Art Project Group
+Contributors: artprojectgroup
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EWFS5SMZ5UYU4
 Tags: permalinks, author, search, comments, pagination
 Requires at least: 2.7
@@ -31,7 +31,7 @@ Sólo hay que ir a Ajustes -> Enlaces permanentes e indicar las nuevas estructur
 
 == Screenshots ==
 
-1. Captura de pantalla.
+1. Captura de pantalla de Custom Base Terms.
 
 == Changelog ==
 
