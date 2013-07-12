@@ -2,8 +2,8 @@
 /*
 Plugin Name: Custom Base Terms
 Version: 0.1
-Plugin URI: http://www.artprojectgroup.com/custom-base-terms
-Description: Adds fields to the Permalink Settings page to change the author, search, pagination and comments permalink base. Created from <a href="http://wordpress.org/plugins/custom-author-base/">Jeff Farthing</a> <strong>Custom Author Base</strong>
+Plugin URI: http://wordpress.org/plugins/custom-base-terms/
+Description: Gracias a Custom Base Terms se podrán introducir las estructuras personalizadas en las URLs para autor, búsqueda, comentarios y página. Creado a partir del plugin de <a href="http://profiles.wordpress.org/jfarthing84/">Jeff Farthing</a> <a href="http://wordpress.org/plugins/custom-author-base/"><strong>Custom Author Base</strong></a>.
 Author: Art Project Group
 Author URI: http://www.artprojectgroup.com/
 */
@@ -11,7 +11,6 @@ Author URI: http://www.artprojectgroup.com/
 /**
  * Initializes the plugin
  */
-
 $bases = array('author_base' => 'author', 'search_base' => 'search', 'comments_base' => 'comments', 'pagination_base' => 'page');
 
 function cbt_init() {
