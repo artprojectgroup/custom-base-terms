@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Custom Base Terms
-Version: 0.1
+Version: 0.2
 Plugin URI: http://wordpress.org/plugins/custom-base-terms/
 Description: Gracias a Custom Base Terms se podrán introducir las estructuras personalizadas en las URLs para autor, búsqueda, comentarios y página. Creado a partir del plugin de <a href="http://profiles.wordpress.org/jfarthing84/">Jeff Farthing</a> <a href="http://wordpress.org/plugins/custom-author-base/"><strong>Custom Author Base</strong></a>.
 Author: Art Project Group
