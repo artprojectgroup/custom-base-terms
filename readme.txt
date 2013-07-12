@@ -12,16 +12,15 @@ Gracias a Custom Base Terms se podrán introducir las estructuras personalizadas
 
 == Description ==
 
-Custom Base Terms es el primer plugin para WordPress de Art Project Group.
-
 Gracias a Custom Base Terms aparecerán 4 nuevas opciones en Ajustes -> Enlaces permanentes donde se podrán introducir las estructuras personalizadas en las URLs para autor, búsqueda, comentarios y página.
 
-Esperamos que os sea útil. 
+Puede obtener más información sobre Custom Base Terms en nuestro sitio web oficial: http://www.artprojectgroup.es/plugins-para-wordpress/custom-base-terms
 
 == Installation ==
 
-1. Upload `custom-base` folder to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
+1. Subir la carpeta `custom-base` al directorio `/wp-content/plugins/`.
+2. Activar el plugin a través del menú 'Plugins' en el Panel de Administración de WordPress.
+3. Configurar el plugin en Ajustes -> Enlaces permanentes.
 
 == Frequently asked questions ==
 
