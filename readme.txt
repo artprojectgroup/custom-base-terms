@@ -8,13 +8,13 @@ Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Gracias a Custom Base Terms se podrán introducir las estructuras personalizadas en las URLs para autor, búsqueda, comentarios y página.
+Modifique las estructuras personalizadas en las URLs para autor, búsqueda, comentarios y página.
 
 == Description ==
 
-Gracias a Custom Base Terms aparecerán 4 nuevas opciones en Ajustes -> Enlaces permanentes donde se podrán introducir las estructuras personalizadas en las URLs para autor, búsqueda, comentarios y página.
+Gracias a **Custom Base Terms** aparecerán 4 nuevas opciones en Ajustes -> Enlaces permanentes donde se podrán introducir las estructuras personalizadas en las URLs para autor, búsqueda, comentarios y página.
 
-Puede obtener más información sobre Custom Base Terms en nuestro sitio web oficial: http://www.artprojectgroup.es/plugins-para-wordpress/custom-base-terms
+Puede obtener más información sobre **Custom Base Terms** en nuestro sitio web oficial: http://www.artprojectgroup.es/plugins-para-wordpress/custom-base-terms
 
 == Installation ==
 
