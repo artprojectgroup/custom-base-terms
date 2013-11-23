@@ -44,7 +44,7 @@ Recuerda que puedes encontrar más plugin para WordPress en [Art Project Group](
 
 == Frequently asked questions ==
 = ¿Cómo se configura? =
-Sólo hay que ir a *Ajustes -> Enlaces permanentes* e indicar las nuevas estructuras personalizadas en las URLs para autor, búsqueda, comentarios y página, al igual que para categoría y etiqueta.
+Sólo hay que pulsar el botón *Ajustes*, o ir a *Ajustes -> Enlaces permanentes* e indicar las nuevas estructuras personalizadas en las URLs para autor, búsqueda, comentarios y página, al igual que para categoría y etiqueta.
 
 == Screenshots ==
 1. Captura de pantalla de **Custom Base Terms**.
