@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
 Requires at least: 2.7
 Tested up to: 3.7.1
-Stable tag: 0.3
+Stable tag: 0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,8 @@ Modifique las estructuras personalizadas en las URLs para autor, búsqueda, come
 = Características =
 * Simple y sencillo de configurar.
 * Permite crear URLs Friendly.
-* Ayuda a mejorar el SEO de WordPress. 
+* Ayuda a mejorar el SEO de WordPress.
+* Multilenguaje. Soporta todos los idiomas nativos de WordPress.
 
 = Origen =
 **Custom Base Terms** ha sido programado a partir del plugin [*Custom Author Base*](http://wordpress.org/plugins/custom-author-base/) de [Jeff Farthing](http://profiles.wordpress.org/jfarthing84/), que aún siendo un magnífico plugin no ofrecía todas las características que necesitábamos. Aún así su trabajo ha sido completamente imprescindible para la realización de este plugin.
@@ -38,7 +39,7 @@ Recuerda que puedes encontrar más plugin para WordPress en [Art Project Group](
 == Installation ==
 1. Subir la carpeta `custom-base` al directorio `/wp-content/plugins/`, o subir el archivo ZIP completo vía *Plugins -> Añadir nuevo -> Subir* en el Panel de Administración de tu instalación de WordPress.
 2. Activar el plugin a través del menú *Plugins* en el Panel de Administración de WordPress.
-3. Configurar el plugin en *Ajustes -> Enlaces permanentes*.
+3. Configurar el plugin con el botón *Ajustes* o en *Ajustes -> Enlaces permanentes*.
 4. Listo, ahora ya puedes disfrutar de él, y si te gusta y te resulta útil, hacer una [*donación*](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EWFS5SMZ5UYU4).
 
 == Frequently asked questions ==
@@ -49,6 +50,8 @@ Sólo hay que ir a *Ajustes -> Enlaces permanentes* e indicar las nuevas estruct
 1. Captura de pantalla de **Custom Base Terms**.
 
 == Changelog ==
+= 0.4 =
+Añadido el botón Ajustes.
 = 0.3 =
 Inclusión de traducciones. 
 = 0.2 =
@@ -57,6 +60,8 @@ Versión inicial mejorada.
 Versión inicial.
 
 == Upgrade Notice ==
+= 0.4 =
+Inclusión del botón Ajustes y actualización de los idiomas.
 = 0.3 =
 Pequeñas modificaciones de código, inclusión de enlaces y actualización de los textos de información.
 = 0.2 =

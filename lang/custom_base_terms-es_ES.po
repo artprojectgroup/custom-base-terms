@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Custom Base Terms v0.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-23 02:32:49+0000\n"
+"PO-Revision-Date: 2013-11-23 11:50:43+0000\n"
 "Last-Translator: admin <info@artprojectgroup.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -50,12 +50,6 @@ msgstr ""
 msgid "http://www.artprojectgroup.es/"
 msgstr ""
 
-#. translators: plugin header field 'Version'
-#: custom-base.php:0
-#@ custom_base_terms
-msgid "0.3"
-msgstr ""
-
 #: custom-base.php:33
 #@ custom_base_terms
 msgid "Visit the official plugin website"
@@ -65,4 +59,15 @@ msgstr "Visitar la web oficial del plugin"
 #@ custom_base_terms
 msgid "https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif"
 msgstr "https://www.paypalobjects.com/es_ES/i/btn/btn_donate_LG.gif"
+
+#: custom-base.php:43
+#@ custom_base_terms
+msgid "Settings"
+msgstr "Ajustes"
+
+#. translators: plugin header field 'Version'
+#: custom-base.php:0
+#@ custom_base_terms
+msgid "0.4"
+msgstr ""
 
