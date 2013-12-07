@@ -1,0 +1,33 @@
+@charset "UTF-8";
+ @import url(fonts/stylesheet.css);
+/*General*/
+div.donacion [class^="icon-"]:before, div.donacion [class*=" icon-"]:before, div.donacion [class^="icon-"]:after, div.donacion [class*=" icon-"]:after, div.donacion .artprojectgroup {
+	font-size: 20px;
+}
+div.donacion {
+	background: #FFFFE0;
+	border: 1px solid #E6DB55;
+	float: right;
+	margin: 10px 0px;
+	padding: 10px;
+	width: 220px;
+	text-align: center;
+	position:absolute;
+	top:128px;
+	right:15px;
+}
+div.donacion > div {
+	padding: 10px;
+	margin: 10px auto 0px;
+	width: 190px;
+	border-top: 1px solid #E6DB55;
+}
+a {
+	text-decoration: none;
+}
+.cabecera img {
+	border: 4px solid #888888;
+}
+form {
+	width: 70%;
+}

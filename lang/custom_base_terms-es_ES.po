@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Custom Base Terms v0.3\n"
+"Project-Id-Version: Custom Base Terms v0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-23 11:50:43+0000\n"
+"PO-Revision-Date: 2013-12-07 23:18:29+0000\n"
 "Last-Translator: admin <info@artprojectgroup.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -50,17 +50,7 @@ msgstr ""
 msgid "http://www.artprojectgroup.es/"
 msgstr ""
 
-#: custom-base.php:33
-#@ custom_base_terms
-msgid "Visit the official plugin website"
-msgstr "Visitar la web oficial del plugin"
-
-#: custom-base.php:34
-#@ custom_base_terms
-msgid "https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif"
-msgstr "https://www.paypalobjects.com/es_ES/i/btn/btn_donate_LG.gif"
-
-#: custom-base.php:43
+#: custom-base.php:61
 #@ custom_base_terms
 msgid "Settings"
 msgstr "Ajustes"
@@ -68,6 +58,121 @@ msgstr "Ajustes"
 #. translators: plugin header field 'Version'
 #: custom-base.php:0
 #@ custom_base_terms
-msgid "0.4"
+msgid "0.5"
 msgstr ""
+
+#: cuadro-donacion.php:6
+#: custom-base.php:45
+#@ custom_base_terms
+msgid "Make a donation by "
+msgstr "Haz una donación por "
+
+#: cuadro-donacion.php:15
+#: custom-base.php:47
+#@ custom_base_terms
+msgid "Follow us on "
+msgstr "Síguenos en "
+
+#: cuadro-donacion.php:21
+#: custom-base.php:48
+#@ custom_base_terms
+msgid "More plugins on "
+msgstr "Más plugins en "
+
+#: cuadro-donacion.php:27
+#: custom-base.php:49
+#@ custom_base_terms
+msgid "Contact with us by "
+msgstr "Contacta con nosotros por "
+
+#: cuadro-donacion.php:39
+#: custom-base.php:50
+#@ custom_base_terms
+msgid "***** Fantastic!"
+msgstr "***** ¡Fantástico!"
+
+#: cuadro-donacion.php:39
+#: custom-base.php:50
+#@ custom_base_terms
+msgid "**** Great"
+msgstr "**** Genial"
+
+#: cuadro-donacion.php:39
+#: custom-base.php:50
+#@ custom_base_terms
+msgid "*** Good"
+msgstr "*** Bueno"
+
+#: cuadro-donacion.php:39
+#: custom-base.php:50
+#@ custom_base_terms
+msgid "** Works"
+msgstr "** Funciona"
+
+#: cuadro-donacion.php:39
+#: custom-base.php:50
+#@ custom_base_terms
+msgid "* Poor"
+msgstr "* Pobre"
+
+#: custom-base.php:61
+#@ custom_base_terms
+msgid "Settings of "
+msgstr "Ajustes de "
+
+#: custom-base.php:109
+#@ custom_base_terms
+msgid "Comments permalink base."
+msgstr "Enlace permanente base para comentarios."
+
+#: custom-base.php:109
+#@ custom_base_terms
+msgid "Pagination permalink base."
+msgstr "Enlace permanente base para paginación."
+
+#: custom-base.php:109
+#@ custom_base_terms
+msgid "Feed permalink base."
+msgstr "Enlace permanente base para feed."
+
+#: custom-base.php:109
+#@ custom_base_terms
+msgid "Base for the author permalink structure (example.com/author/authorname)."
+msgstr "Estructura de enlace permanente base para autor (ejemplo.com/autor/nombredeautor)."
+
+#: custom-base.php:109
+#@ custom_base_terms
+msgid "Base of the search permalink structure (example.com/search/query)."
+msgstr "Estructura de enlace permanente base para búsqueda (ejemplo.com/busqueda/consulta)."
+
+#: cuadro-donacion.php:4
+#@ custom_base_terms
+msgid "If you enjoyed and find helpful this plugin, please make a donation:"
+msgstr "Si te ha gustado y resultado útil este plugin, por favor, haz una donación:"
+
+#: cuadro-donacion.php:13
+#@ custom_base_terms
+msgid "Follow us:"
+msgstr "Síguenos:"
+
+#: cuadro-donacion.php:19
+#@ custom_base_terms
+msgid "More plugins:"
+msgstr "Más plugins:"
+
+#: cuadro-donacion.php:25
+#@ custom_base_terms
+msgid "Contact with us:"
+msgstr "Contacta con nosotros:"
+
+#: cuadro-donacion.php:31
+#@ custom_base_terms
+msgid "Documentation and Support:"
+msgstr "Documentación y soporte:"
+
+#: cuadro-donacion.php:36
+#, php-format
+#@ custom_base_terms
+msgid "Please, rate %s:"
+msgstr "Por favor, puntúa %s:"
 
