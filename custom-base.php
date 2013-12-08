@@ -27,7 +27,7 @@ $custom_base_terms = array(	'plugin' => 'Custom Base Terms',
 						'plugin_url' => 'http://www.artprojectgroup.es/plugins-para-wordpress/custom-base-terms', 
 						'paypal' => 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EWFS5SMZ5UYU4', 
 						'ajustes' => 'options-permalink.php', 
-						'imagen' => 'http://www.artprojectgroup.es/wp-content/artprojectgroup/custom-base-terms-582x139.jpg', 
+						'imagen' => '', 
 						'puntuacion' => 'http://wordpress.org/support/view/plugin-reviews/custom-base-terms');
 
 //Carga el idioma
