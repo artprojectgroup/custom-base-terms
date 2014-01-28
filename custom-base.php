@@ -23,12 +23,12 @@ License: GPL2
 
 //Definimos las variables
 $custom_base_terms = array(	'plugin' => 'Custom Base Terms', 
-						'plugin_uri' => 'custom-base-terms', 
-						'plugin_url' => 'http://www.artprojectgroup.es/plugins-para-wordpress/custom-base-terms', 
-						'paypal' => 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EWFS5SMZ5UYU4', 
-						'ajustes' => 'options-permalink.php', 
-						'imagen' => '', 
-						'puntuacion' => 'http://wordpress.org/support/view/plugin-reviews/custom-base-terms');
+								'plugin_uri' => 'custom-base-terms', 
+								'plugin_url' => 'http://www.artprojectgroup.es/plugins-para-wordpress/custom-base-terms', 
+								'paypal' => 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EWFS5SMZ5UYU4', 
+								'ajustes' => 'options-permalink.php', 
+								'imagen' => '', 
+								'puntuacion' => 'http://wordpress.org/support/view/plugin-reviews/custom-base-terms');
 
 //Carga el idioma
 load_plugin_textdomain('custom_base_terms', null, dirname(plugin_basename(__FILE__)) . '/lang');
@@ -143,7 +143,7 @@ function custom_base_terms_plugin($nombre) {
 	return get_object_vars($plugin);
 }
 
-//Comprueba si hay que mostrar el mensaje de configuración
+//Carga las hojas de estilo
 function custom_base_terms_muestra_mensaje() {
 	wp_register_style('custom_base_terms_hoja_de_estilo', plugins_url('style.css', __FILE__)); //Carga la hoja de estilo
 	wp_register_style('custom_base_terms_fuentes', plugins_url('fonts/stylesheet.css', __FILE__)); //Carga la hoja de estilo global

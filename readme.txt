@@ -3,7 +3,7 @@ Contributors: artprojectgroup
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EWFS5SMZ5UYU4
 Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
 Requires at least: 2.7
-Tested up to: 3.8
+Tested up to: 3.8.1
 Stable tag: 0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
