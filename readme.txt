@@ -11,6 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Modifique las estructuras personalizadas en las URLs para autor, búsqueda, comentarios, página y feed.
 
 == Description ==
+[*Español*](http://wordpress.org/plugins/custom-base-terms/) - [*English*](http://goo.gl/CKlRqe) - [*Italiano*](http://goo.gl/T3KW84) - [*Français*](http://goo.gl/eV2eGj) - [*Deutsch*](http://goo.gl/EtiDZq) 
+
 **Custom Base Terms** genera cuatro nuevas opciones en *Ajustes -> Enlaces permanentes* donde se podrán introducir las estructuras personalizadas en las URLs para autor, búsqueda, comentarios, página y feed.
 
 = Características =
