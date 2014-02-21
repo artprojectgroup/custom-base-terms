@@ -1,10 +1,10 @@
 === Custom Base Terms ===
 Contributors: artprojectgroup
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EWFS5SMZ5UYU4
+Donate link: http://www.artprojectgroup.es/plugins-para-wordpress/custom-base-terms
 Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
 Requires at least: 2.7
 Tested up to: 3.8.1
-Stable tag: 0.6
+Stable tag: 0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,7 +45,7 @@ Recuerda que puedes encontrar más plugin para WordPress en [Art Project Group](
  * Buscar **Custom Base Terms** en el buscador disponible en *Plugins -> Añadir nuevo* y pulsar el botón *Instalar ahora*.
 2. Activar el plugin a través del menú *Plugins* en el Panel de Administración de WordPress.
 3. Configurar el plugin con el botón *Ajustes* o en *Ajustes -> Enlaces permanentes*.
-4. Listo, ahora ya puedes disfrutar de él, y si te gusta y te resulta útil, hacer una [*donación*](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EWFS5SMZ5UYU4).
+4. Listo, ahora ya puedes disfrutar de él, y si te gusta y te resulta útil, hacer una [*donación*](http://www.artprojectgroup.es/plugins-para-wordpress/custom-base-terms).
 
 == Frequently asked questions ==
 = ¿Cómo se configura? =
@@ -55,6 +55,10 @@ Sólo hay que pulsar el botón *Ajustes*, o ir a *Ajustes -> Enlaces permanentes
 1. Captura de pantalla de **Custom Base Terms**.
 
 == Changelog ==
+= 0.7 =
+* Añadida caché para los datos externos.
+* Añadida función que limpia la caché cuando se borra el plugin.
+* Cambio del botón y enlace de donación.
 = 0.6 =
 * Actualización de las hojas de estilo acorde al nuevo WordPress 8.
 = 0.5 =
@@ -74,6 +78,10 @@ Arreglo de pequeños errores en el código fuente.
 Versión inicial.
 
 == Upgrade Notice ==
+= 0.7 =
+* Añadida caché para los datos externos.
+* Añadida función que limpia la caché cuando se borra el plugin.
+* Cambio del botón y enlace de donación.
 = 0.6 =
 * Actualización de las hojas de estilo acorde al nuevo WordPress 8.
 = 0.5 =
@@ -100,7 +108,7 @@ Por ello regalamos a esa gran comunidad hispana nuestros plugins con interfaces,
 Esperamos que os guste nuestra iniciativa.
 
 == Donación ==
-¿Te ha gustado y te ha resultado útil **Custom Base Terms** en tu sitio web? Te agradeceríamos una [pequeña donación](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EWFS5SMZ5UYU4) que nos ayudará a seguir mejorando este plugin y a crear más plugins totalmente gratuitos para toda la comunidad WordPress.
+¿Te ha gustado y te ha resultado útil **Custom Base Terms** en tu sitio web? Te agradeceríamos una [pequeña donación](http://www.artprojectgroup.es/plugins-para-wordpress/custom-base-terms) que nos ayudará a seguir mejorando este plugin y a crear más plugins totalmente gratuitos para toda la comunidad WordPress.
 
 == Gracias ==
 * A [Jeff Farthing](http://profiles.wordpress.org/jfarthing84/) por su gran plugin que ha inspirado **Custom Base Terms**.
