@@ -1,10 +1,10 @@
 === Custom Base Terms ===
 Contributors: artprojectgroup
-Donate link: http://www.artprojectgroup.es/plugins-para-wordpress/custom-base-terms
+Donate link: http://www.artprojectgroup.es/donacion
 Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
 Requires at least: 2.7
 Tested up to: 3.8.1
-Stable tag: 0.7.1
+Stable tag: 0.7.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,6 +55,8 @@ Sólo hay que pulsar el botón *Ajustes*, o ir a *Ajustes -> Enlaces permanentes
 1. Captura de pantalla de **Custom Base Terms**.
 
 == Changelog ==
+= 0.7.2 =
+* Cambio del enlace de donación.
 = 0.7.1 =
 * Corrección menor que evita la aparición de un código de error al recopilar información sobre el plugin.
 = 0.7 =
@@ -80,6 +82,8 @@ Arreglo de pequeños errores en el código fuente.
 Versión inicial.
 
 == Upgrade Notice ==
+= 0.7.2 =
+* Cambio del enlace de donación.
 = 0.7.1 =
 * Corrección menor que evita la aparición de un código de error al recopilar información sobre el plugin.
 = 0.7 =

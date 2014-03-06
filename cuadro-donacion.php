@@ -3,7 +3,7 @@
   <p>
     <?php _e('If you enjoyed and find helpful this plugin, please make a donation:', 'custom_base_terms'); ?>
   </p>
-  <p><a href="<?php echo $custom_base_terms['plugin_url']; ?>" target="_blank" title="<?php _e('Make a donation by ', 'custom_base_terms'); ?>APG"><span class="icon-bills"></span></a></p>
+  <p><a href="<?php echo $custom_base_terms['donacion']; ?>" target="_blank" title="<?php _e('Make a donation by ', 'custom_base_terms'); ?>APG"><span class="icon-bills"></span></a></p>
   <div>
     <p>Art Project Group:</p>
     <p><a href="http://www.artprojectgroup.es" title="Art Project Group" target="_blank"><strong class="artprojectgroup">APG</strong></a></p>

@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Custom Base Terms
-Version: 0.7.1
+Version: 0.7.2
 Plugin URI: http://wordpress.org/plugins/custom-base-terms/
 Description: With Custom Base Terms you can create a custom structures for URLs in author, search, comments and page. Created from <a href="http://profiles.wordpress.org/jfarthing84/" target="_blank">Jeff Farthing</a> <a href="http://wordpress.org/plugins/custom-author-base/" target="_blank"><strong>Custom Author Base</strong></a> plugin.
 Author: Art Project Group
@@ -24,9 +24,9 @@ License: GPL2
 //Definimos las variables
 $custom_base_terms = array(	'plugin' => 'Custom Base Terms', 
 								'plugin_uri' => 'custom-base-terms', 
+								'donacion' => 'http://www.artprojectgroup.es/donacion',
 								'plugin_url' => 'http://www.artprojectgroup.es/plugins-para-wordpress/custom-base-terms', 
 								'ajustes' => 'options-permalink.php', 
-								'imagen' => '', 
 								'puntuacion' => 'http://wordpress.org/support/view/plugin-reviews/custom-base-terms');
 
 //Carga el idioma
@@ -41,7 +41,7 @@ function custom_base_terms_enlaces($enlaces, $archivo) {
 	if ($archivo == $plugin) 
 	{
 		$plugin = custom_base_terms_plugin($custom_base_terms['plugin_uri']);
-		$enlaces[] = '<a href="' . $custom_base_terms['plugin_url'] . '" target="_blank" title="' . __('Make a donation by ', 'custom_base_terms') . 'APG"><span class="icon-bills"></span></a>';
+		$enlaces[] = '<a href="' . $custom_base_terms['donacion'] . '" target="_blank" title="' . __('Make a donation by ', 'custom_base_terms') . 'APG"><span class="icon-bills"></span></a>';
 		$enlaces[] = '<a href="'. $custom_base_terms['plugin_url'] . '" target="_blank" title="' . $custom_base_terms['plugin'] . '"><strong class="artprojectgroup">APG</strong></a>';
 		$enlaces[] = '<a href="https://www.facebook.com/artprojectgroup" title="' . __('Follow us on ', 'custom_base_terms') . 'Facebook" target="_blank"><span class="icon-facebook6"></span></a> <a href="https://twitter.com/artprojectgroup" title="' . __('Follow us on ', 'custom_base_terms') . 'Twitter" target="_blank"><span class="icon-social19"></span></a> <a href="https://plus.google.com/+ArtProjectGroupES" title="' . __('Follow us on ', 'custom_base_terms') . 'Google+" target="_blank"><span class="icon-google16"></span></a> <a href="http://es.linkedin.com/in/artprojectgroup" title="' . __('Follow us on ', 'custom_base_terms') . 'LinkedIn" target="_blank"><span class="icon-logo"></span></a>';
 		$enlaces[] = '<a href="http://profiles.wordpress.org/artprojectgroup/" title="' . __('More plugins on ', 'custom_base_terms') . 'WordPress" target="_blank"><span class="icon-wordpress2"></span></a>';
