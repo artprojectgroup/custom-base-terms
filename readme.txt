@@ -45,7 +45,7 @@ Recuerda que puedes encontrar más plugin para WordPress en [Art Project Group](
  * Buscar **Custom Base Terms** en el buscador disponible en *Plugins -> Añadir nuevo* y pulsar el botón *Instalar ahora*.
 2. Activar el plugin a través del menú *Plugins* en el Panel de Administración de WordPress.
 3. Configurar el plugin con el botón *Ajustes* o en *Ajustes -> Enlaces permanentes*.
-4. Listo, ahora ya puedes disfrutar de él, y si te gusta y te resulta útil, hacer una [*donación*](http://www.artprojectgroup.es/plugins-para-wordpress/custom-base-terms).
+4. Listo, ahora ya puedes disfrutar de él, y si te gusta y te resulta útil, hacer una [*donación*](http://www.artprojectgroup.es/donacion).
 
 == Frequently asked questions ==
 = ¿Cómo se configura? =
@@ -116,7 +116,7 @@ Por ello regalamos a esa gran comunidad hispana nuestros plugins con interfaces,
 Esperamos que os guste nuestra iniciativa.
 
 == Donación ==
-¿Te ha gustado y te ha resultado útil **Custom Base Terms** en tu sitio web? Te agradeceríamos una [pequeña donación](http://www.artprojectgroup.es/plugins-para-wordpress/custom-base-terms) que nos ayudará a seguir mejorando este plugin y a crear más plugins totalmente gratuitos para toda la comunidad WordPress.
+¿Te ha gustado y te ha resultado útil **Custom Base Terms** en tu sitio web? Te agradeceríamos una [pequeña donación](http://www.artprojectgroup.es/donacion) que nos ayudará a seguir mejorando este plugin y a crear más plugins totalmente gratuitos para toda la comunidad WordPress.
 
 == Gracias ==
 * A [Jeff Farthing](http://profiles.wordpress.org/jfarthing84/) por su gran plugin que ha inspirado **Custom Base Terms**.
