@@ -4,7 +4,7 @@ Donate link: http://www.artprojectgroup.es/donacion
 Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
 Requires at least: 2.7
 Tested up to: 3.8.1
-Stable tag: 0.7.2
+Stable tag: 0.7.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,7 +36,7 @@ No olvides dejarnos tu comentario en:
 * [+ArtProjectGroupES](https://plus.google.com/+ArtProjectGroupES/) en Google+.
 
 = Más plugins =
-Recuerda que puedes encontrar más plugin para WordPress en [Art Project Group](http://www.artprojectgroup.es/plugins-para-wordpress/) y en nuestro perfil en [WordPress](http://profiles.wordpress.org/artprojectgroup/).
+Recuerda que puedes encontrar más [plugins para WordPress](http://www.artprojectgroup.es/plugins-para-wordpress) en [Art Project Group](http://www.artprojectgroup.es) y en nuestro perfil en [WordPress](http://profiles.wordpress.org/artprojectgroup/).
 
 == Installation ==
 1. Puedes:
@@ -55,6 +55,9 @@ Sólo hay que pulsar el botón *Ajustes*, o ir a *Ajustes -> Enlaces permanentes
 1. Captura de pantalla de **Custom Base Terms**.
 
 == Changelog ==
+= 0.7.3 =
+* Arreglo de error que borraba toda la configuración al desactivar el plugin.
+* Corrección menor que evita la aparición de un código de error al recopilar información sobre el plugin.
 = 0.7.2 =
 * Cambio del enlace de donación.
 = 0.7.1 =
@@ -82,6 +85,9 @@ Arreglo de pequeños errores en el código fuente.
 Versión inicial.
 
 == Upgrade Notice ==
+= 0.7.3 =
+* Arreglo de error que borraba toda la configuración al desactivar el plugin.
+* Corrección menor que evita la aparición de un código de error al recopilar información sobre el plugin.
 = 0.7.2 =
 * Cambio del enlace de donación.
 = 0.7.1 =

@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Custom Base Terms
-Version: 0.7.2
+Version: 0.7.3
 Plugin URI: http://wordpress.org/plugins/custom-base-terms/
 Description: With Custom Base Terms you can create a custom structures for URLs in author, search, comments and page. Created from <a href="http://profiles.wordpress.org/jfarthing84/" target="_blank">Jeff Farthing</a> <a href="http://wordpress.org/plugins/custom-author-base/" target="_blank"><strong>Custom Author Base</strong></a> plugin.
 Author: Art Project Group
@@ -140,7 +140,7 @@ function custom_base_terms_plugin($nombre) {
 		$respuesta = wp_remote_post('http://api.wordpress.org/plugins/info/1.0/', array('body' => $consulta));
 		set_transient('custom_base_terms_plugin', $respuesta, 24 * HOUR_IN_SECONDS);
 	}
-	if (isset($respuesta['body'])) $plugin = get_object_vars(unserialize($respuesta['body']));
+	if (!is_wp_error($respuesta)) $plugin = get_object_vars(unserialize($respuesta['body']));
 	else $plugin['rating'] = 100;
 	
 	return $plugin;
@@ -158,5 +158,5 @@ add_action('admin_init', 'custom_base_terms_muestra_mensaje');
 function custom_base_terms_desinstalar() {
   delete_transient('custom_base_terms_plugin');
 }
-register_deactivation_hook( __FILE__, 'custom_base_terms_desinstalar' );
+register_uninstall_hook( __FILE__, 'custom_base_terms_desinstalar' );
 ?>
