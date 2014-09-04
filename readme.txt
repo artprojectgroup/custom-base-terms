@@ -3,7 +3,7 @@ Contributors: artprojectgroup
 Donate link: http://www.artprojectgroup.es/tienda/donacion
 Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
 Requires at least: 2.7
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: 0.7.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
