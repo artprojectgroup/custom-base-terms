@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Base Terms v0.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: Sat Aug 08 2015 20:05:51 GMT+0200 (CEST)\n"
+"Last-Translator: artprojectgroup <info@artprojectgroup.com>\n"
+"Language-Team: \n"
+"Language: Spanish (Spain)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: es_ES"
+
+#: ../../custom-base.php:47 ../../includes/cuadro-informacion.php:7
+msgid "Make a donation by "
+msgstr "Haz una donación por "
+
+#: ../../custom-base.php:49 ../../custom-base.php:49 ../../custom-base.php:49 ../.
+#: ./custom-base.php:49 ../../includes/cuadro-informacion.php:19 ../..
+#: /includes/cuadro-informacion.php:19 ../../includes/cuadro-informacion.php:19 ..
+#: /../includes/cuadro-informacion.php:19
+msgid "Follow us on "
+msgstr "Síguenos en "
+
+#: ../../custom-base.php:50 ../../includes/cuadro-informacion.php:25
+msgid "More plugins on "
+msgstr "Más plugins en "
+
+#: ../../custom-base.php:51 ../../custom-base.php:51 ../../includes/cuadro-
+#: informacion.php:33 ../../includes/cuadro-informacion.php:33
+msgid "Contact with us by "
+msgstr "Contacta con nosotros por "
+
+#: ../../custom-base.php:64
+msgid "Settings of "
+msgstr "Ajustes de "
+
+#: ../../custom-base.php:64
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ../../custom-base.php:65
+msgid "Support of "
+msgstr "Soporte técnico de "
+
+#: ../../custom-base.php:65 ../../includes/cuadro-informacion.php:39
+msgid "Support"
+msgstr "Soporte técnico"
+
+#. translators: plugin header field 'Name'
+#: ../../custom-base.php:111
+msgid "Custom Base Terms"
+msgstr ""
+
+#: ../../custom-base.php:119
+msgid ""
+"These settings added by <strong class=\"artprojectgroup\">APG</strong> control "
+"the WordPress base permalinks used for author, search, comments, pagination "
+"and feed pages."
+msgstr ""
+"Estos ajustes añadidos por <strong class=\"artprojectgroup\">APG</strong> "
+"controlan los enlaces permanentes base de WordPress usados para las páginas "
+"de autor, búsqueda, comentarios, paginación y feed."
+
+#: ../../custom-base.php:126
+msgid "Base for the author permalink structure (example.com/author/authorname)."
+msgstr ""
+"Estructura de enlace permanente base para autor (ejemplo."
+"com/autor/nombredeautor)."
+
+#: ../../custom-base.php:127
+msgid "Base of the search permalink structure (example.com/search/query)."
+msgstr ""
+"Estructura de enlace permanente base para búsqueda (ejemplo."
+"com/busqueda/consulta)."
+
+#: ../../custom-base.php:128
+msgid "Comments permalink base."
+msgstr "Enlace permanente base para comentarios."
+
+#: ../../custom-base.php:129
+msgid "Pagination permalink base."
+msgstr "Enlace permanente base para paginación."
+
+#: ../../custom-base.php:130
+msgid "Feed permalink base."
+msgstr "Enlace permanente base para feed."
+
+#: ../../custom-base.php:199 ../../includes/cuadro-informacion.php:44
+#, php-format
+msgid "Please, rate %s:"
+msgstr "Por favor, puntúa %s:"
+
+#: ../../includes/cuadro-informacion.php:5
+msgid "If you enjoyed and find helpful this plugin, please make a donation:"
+msgstr "Si te ha gustado y resultado útil este plugin, por favor, haz una donación:"
+
+#: ../../includes/cuadro-informacion.php:17
+msgid "Follow us:"
+msgstr "Síguenos:"
+
+#: ../../includes/cuadro-informacion.php:23
+msgid "More plugins:"
+msgstr "Más plugins:"
+
+#: ../../includes/cuadro-informacion.php:31
+msgid "Contact with us:"
+msgstr "Contacta con nosotros:"
+
+#: ../../includes/cuadro-informacion.php:37
+msgid "Documentation and Support:"
+msgstr "Documentación y soporte:"

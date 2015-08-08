@@ -3,10 +3,10 @@ Contributors: artprojectgroup
 Donate link: http://www.artprojectgroup.es/tienda/donacion
 Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
 Requires at least: 2.7
-Tested up to: 4.0
-Stable tag: 0.7.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tested up to: 4.3
+Stable tag: 1.0
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Modifique las estructuras personalizadas en las URLs para autor, búsqueda, comentarios, página y feed.
 
@@ -55,6 +55,11 @@ Sólo hay que pulsar el botón *Ajustes*, o ir a *Ajustes -> Enlaces permanentes
 1. Captura de pantalla de **Custom Base Terms**.
 
 == Changelog ==
+= 1.0 =
+* Actualización de las traducciones.
+* Nueva hoja de estilo sensible.
+* Modificación de la estructura interna del plugin para ajustarse a los estándares de WordPress.
+* Actualización de la captura de pantalla.
 = 0.7.3 =
 * Arreglo de error que borraba toda la configuración al desactivar el plugin.
 * Corrección menor que evita la aparición de un código de error al recopilar información sobre el plugin.
@@ -85,6 +90,11 @@ Arreglo de pequeños errores en el código fuente.
 Versión inicial.
 
 == Upgrade Notice ==
+= 1.0 =
+* Actualización de las traducciones.
+* Nueva hoja de estilo sensible.
+* Modificación de la estructura interna del plugin para ajustarse a los estándares de WordPress.
+* Actualización de la captura de pantalla.
 = 0.7.3 =
 * Arreglo de error que borraba toda la configuración al desactivar el plugin.
 * Corrección menor que evita la aparición de un código de error al recopilar información sobre el plugin.
