@@ -12,7 +12,7 @@ Tested up to: 4.3
 Text Domain: custom_base_terms
 Domain Path: /i18n/languages
 
-@package WooCommerce - APG Free Postcode/State/Country Shipping
+@package Custom Base Terms
 @category Core
 @author Art Project Group
 */
