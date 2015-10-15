@@ -3,8 +3,8 @@ Contributors: artprojectgroup
 Donate link: http://www.artprojectgroup.es/tienda/donacion
 Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
 Requires at least: 2.7
-Tested up to: 4.3
-Stable tag: 1.0
+Tested up to: 4.3.1
+Stable tag: 1.0.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -20,6 +20,13 @@ Modifique las estructuras personalizadas en las URLs para autor, búsqueda, come
 * Permite crear URLs Friendly.
 * Ayuda a mejorar el SEO de WordPress.
 * Multilenguaje. Soporta todos los idiomas nativos de WordPress.
+
+= Traducciones =
+* Español ([**Art Project Group**](http://www.artprojectgroup.es/)).
+* English ([**Art Project Group**](http://www.artprojectgroup.es/)).
+
+= Soporte técnico =
+**Art Project Group** te ofrece [**Soporte técnico**](http://www.artprojectgroup.es/tienda/soporte-tecnico) para configurar o instalar **Custom Base Terms**. 
 
 = Origen =
 **Custom Base Terms** ha sido programado a partir del plugin [*Custom Author Base*](http://wordpress.org/plugins/custom-author-base/) de [Jeff Farthing](http://profiles.wordpress.org/jfarthing84/), que aún siendo un magnífico plugin no ofrecía todas las características que necesitábamos. Aún así su trabajo ha sido completamente imprescindible para la realización de este plugin.
@@ -55,6 +62,9 @@ Sólo hay que pulsar el botón *Ajustes*, o ir a *Ajustes -> Enlaces permanentes
 1. Captura de pantalla de **Custom Base Terms**.
 
 == Changelog ==
+= 1.0.1 =
+* Actualización del paquete de fuentes. Nuevo icono de Google+.
+* Actualización de las traducciones.
 = 1.0 =
 * Actualización de las traducciones.
 * Nueva hoja de estilo sensible.
@@ -90,7 +100,10 @@ Arreglo de pequeños errores en el código fuente.
 Versión inicial.
 
 == Upgrade Notice ==
-= 1.0 =
+= 1.0.1 =
+* Actualización del paquete de fuentes. Nuevo icono de Google+.
+* Actualización de las traducciones.
+=  1.0 =
 * Actualización de las traducciones.
 * Nueva hoja de estilo sensible.
 * Modificación de la estructura interna del plugin para ajustarse a los estándares de WordPress.
@@ -119,8 +132,8 @@ Pequeñas modificaciones de código, inclusión de enlaces, actualización de lo
 Arreglo de pequeños errores en el código fuente.
 
 ==Traducciones ==
-* *English*: by **Art Project Group** (default language).
-* *Español*: por **Art Project Group**.
+* *English*: by [**Art Project Group**](http://www.artprojectgroup.es/) (default language).
+* *Español*: por [**Art Project Group**](http://www.artprojectgroup.es/).
 
 == ¿Por qué está esta página en español? ==
 Mientras WordPress no nos permita a los desarrolladores realizar esta página en más de un idioma, elegiremos siempre el español.
