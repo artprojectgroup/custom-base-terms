@@ -7,7 +7,7 @@ Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
 
 Requires at least: 2.7
 
-Tested up to: 4.4.2
+Tested up to: 4.5
 
 Stable tag: 1.0.1.1
 
@@ -64,6 +64,7 @@ Puedes seguir el desarrollo de este plugin en [Github](https://github.com/artpro
 3. Configurar el plugin con el botón *Ajustes* o en *Ajustes -> Enlaces permanentes*.
 4. Listo, ahora ya puedes disfrutar de él, y si te gusta y te resulta útil, hacer una [*donación*](http://www.artprojectgroup.es/tienda/donacion).
 
+
 ## Preguntas frecuentes
 ### ¿Cómo se configura?
 Sólo hay que pulsar el botón *Ajustes*, o ir a *Ajustes -> Enlaces permanentes* e indicar las nuevas estructuras personalizadas en las URLs para autor, búsqueda, comentarios y página, al igual que para categoría y etiqueta.
@@ -73,8 +74,7 @@ Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Proje
 
 *En ningún caso **Art Project Group** proporciona ningún tipo de soporte técnico gratuito.*
 
-## Changelog
-###1.0.1.1
+## Changelog###1.0.1.1
 * Actualización de enlaces de soporte y pequeñas actualizaciones.
 
 ### 1.0.1
@@ -124,6 +124,7 @@ Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Proje
 
 ### 0.1
 * Versión inicial.
+
 
 ## Traducciones
 * *English*: by [**Art Project Group**](http://www.artprojectgroup.es/) (default language).
