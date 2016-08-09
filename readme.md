@@ -7,7 +7,7 @@ Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
 
 Requires at least: 2.7
 
-Tested up to: 4.5
+Tested up to: 4.6
 
 Stable tag: 1.0.1.1
 

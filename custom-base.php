@@ -7,7 +7,7 @@ Description: With Custom Base Terms you can create a custom structures for URLs 
 Author: Art Project Group
 Author URI: http://www.artprojectgroup.es/
 Requires at least: 2.7
-Tested up to: 4.5
+Tested up to: 4.6
 
 Text Domain: custom_base_terms
 Domain Path: /i18n/languages
