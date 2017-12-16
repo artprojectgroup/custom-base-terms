@@ -170,9 +170,9 @@ function custom_base_terms_plugin( $nombre ) {
 		'slug' => $nombre 
 	);
 	$consulta = array( 
-		'action' => 'plugin_information', 
-		'timeout' => 15, 
-		'request' => serialize( $argumentos )
+		'action'	=> 'plugin_information', 
+		'timeout'	=> 15, 
+		'request'	=> serialize( $argumentos )
 	);
 	$respuesta = get_transient( 'custom_base_terms_plugin' );
 	if ( false === $respuesta ) {
