@@ -218,4 +218,3 @@ function custom_base_terms_desinstalar() {
 	}
 }
 register_uninstall_hook( __FILE__, 'custom_base_terms_desinstalar' );
-?>
