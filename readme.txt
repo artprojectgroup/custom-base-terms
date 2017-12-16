@@ -3,8 +3,8 @@ Contributors: artprojectgroup
 Donate link: http://www.artprojectgroup.es/tienda/donacion
 Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
 Requires at least: 2.7
-Tested up to: 4.6
-Stable tag: 1.0.1.1
+Tested up to: 4.9.1
+Stable tag: 1.0.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -26,7 +26,7 @@ Modifique las estructuras personalizadas en las URLs para autor, búsqueda, come
 * English ([**Art Project Group**](http://www.artprojectgroup.es/)).
 
 = Soporte técnico =
-**Art Project Group** te ofrece [**Soporte técnico**](http://www.wpprojectgroup.es/tienda/ticket-de-soporte) para configurar o instalar **Custom Base Terms**. 
+**Art Project Group** te ofrece [**Soporte técnico**](http://www.artprojectgroup.es/tienda/ticket-de-soporte) para configurar o instalar **Custom Base Terms**. 
 
 = Origen =
 **Custom Base Terms** ha sido programado a partir del plugin [*Custom Author Base*](http://wordpress.org/plugins/custom-author-base/) de [Jeff Farthing](http://profiles.wordpress.org/jfarthing84/), que aún siendo un magnífico plugin no ofrecía todas las características que necesitábamos. Aún así su trabajo ha sido completamente imprescindible para la realización de este plugin.
@@ -62,7 +62,7 @@ Puedes seguir el desarrollo de este plugin en [Github](https://github.com/artpro
 Sólo hay que pulsar el botón *Ajustes*, o ir a *Ajustes -> Enlaces permanentes* e indicar las nuevas estructuras personalizadas en las URLs para autor, búsqueda, comentarios y página, al igual que para categoría y etiqueta.
 
 = Soporte técnico =
-Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Project Group** te ofrece su servicio de [**Soporte técnico**](http://www.wpprojectgroup.es/tienda/ticket-de-soporte). 
+Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Project Group** te ofrece su servicio de [**Soporte técnico**](http://www.artprojectgroup.es/tienda/ticket-de-soporte). 
 
 *En ningún caso **Art Project Group** proporciona ningún tipo de soporte técnico gratuito.*
 
@@ -70,6 +70,11 @@ Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Proje
 1. Captura de pantalla de **Custom Base Terms**.
 
 == Changelog ==
+= 1.0.2 =
+* Fixed localization.
+* Header updated.
+* Stylesheet updated.
+* Screenshot updated.
 = 1.0.1.1 =
 * Actualización de enlaces de soporte y pequeñas actualizaciones.
 = 1.0.1 =
@@ -110,15 +115,18 @@ Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Proje
 * Versión inicial.
 
 == Upgrade Notice ==
-= 1.0.1.1 =
-* Actualización de enlaces de soporte y pequeñas actualizaciones.
+= 1.0.2 =
+* Fixed localization.
+* Header updated.
+* Stylesheet updated.
+* Screenshot updated.
 
 ==Traducciones ==
 * *English*: by [**Art Project Group**](http://www.artprojectgroup.es/) (default language).
 * *Español*: por [**Art Project Group**](http://www.artprojectgroup.es/).
 
 == Soporte técnico ==
-Dado que **Custom Base Terms** es totalmente gratuito, **Art Project Group** sólo proporciona el servicio de [**Soporte técnico**](http://www.wpprojectgroup.es/tienda/ticket-de-soporte) previo pago. En ningún caso **Art Project Group** proporciona ningún tipo de soporte técnico gratuito.
+Dado que **Custom Base Terms** es totalmente gratuito, **Art Project Group** sólo proporciona el servicio de [**Soporte técnico**](http://www.artprojectgroup.es/tienda/ticket-de-soporte) previo pago. En ningún caso **Art Project Group** proporciona ningún tipo de soporte técnico gratuito.
 
 == ¿Por qué está esta página en español? ==
 Mientras WordPress no nos permita a los desarrolladores realizar esta página en más de un idioma, elegiremos siempre el español.
