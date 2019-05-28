@@ -201,11 +201,11 @@ function custom_base_terms_plugin( $nombre ) {
 }
 
 //Hoja de estilo
-function apg_free_shipping_estilo() {
+function custom_base_terms_estilo() {
 	wp_register_style( 'custom_base_terms_hoja_de_estilo', plugins_url( 'assets/css/style.css', __FILE__ ) ); //Carga la hoja de estilo
 	wp_enqueue_style( 'custom_base_terms_hoja_de_estilo' ); //Carga la hoja de estilo global
 }
-add_action( 'admin_enqueue_scripts', 'apg_free_shipping_estilo' );
+add_action( 'admin_enqueue_scripts', 'custom_base_terms_estilo' );
 
 //Eliminamos todo rastro del plugin al desinstalarlo
 function custom_base_terms_desinstalar() {
