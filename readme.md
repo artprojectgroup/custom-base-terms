@@ -7,9 +7,9 @@ Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
 
 Requires at least: 2.7
 
-Tested up to: 4.9.1
+Tested up to: 5.2
 
-Stable tag: 1.0.2
+Stable tag: 1.0.2.1
 
 License: GPLv3
 
@@ -75,6 +75,9 @@ Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Proje
 *En ningún caso **Art Project Group** proporciona ningún tipo de soporte técnico gratuito.*
 
 ## Changelog
+### 1.0.2.1
+* Pequeñas modificaciones de código.
+
 ### 1.0.2
 * Arreglo de localización.
 * Actualización de cabecera.

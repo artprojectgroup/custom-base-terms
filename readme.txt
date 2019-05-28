@@ -3,8 +3,8 @@ Contributors: artprojectgroup
 Donate link: https://artprojectgroup.es/tienda/donacion
 Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
 Requires at least: 2.7
-Tested up to: 4.9.1
-Stable tag: 1.0.2
+Tested up to: 5.2
+Stable tag: 1.0.2.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -70,6 +70,8 @@ Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Proje
 1. Captura de pantalla de **Custom Base Terms**.
 
 == Changelog ==
+= 1.0.2.1 =
+* Pequeñas modificaciones de código.
 = 1.0.2 =
 * Fixed localization.
 * Header updated.
@@ -115,11 +117,8 @@ Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Proje
 * Versión inicial.
 
 == Upgrade Notice ==
-= 1.0.2 =
-* Fixed localization.
-* Header updated.
-* Stylesheet updated.
-* Screenshot updated.
+= 1.0.2.1 =
+* Pequeñas modificaciones de código.
 
 ==Traducciones ==
 * *English*: by [**Art Project Group**](https://artprojectgroup.es/) (default language).
