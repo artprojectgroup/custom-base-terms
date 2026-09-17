@@ -1,165 +1,155 @@
 === Custom Base Terms ===
 Contributors: artprojectgroup
 Donate link: https://artprojectgroup.es/tienda/donacion
-Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
+Tags: permalinks, author, search, comments, pagination
 Requires at least: 5.0
 Tested up to: 7.2
 Requires PHP: 7.4
-Stable tag: 1.1.0
-License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Stable tag: 1.1.1
+License: GNU General Public License v3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Modifique las estructuras personalizadas en las URLs para autor, búsqueda, comentarios, página y feed.
+Change the custom URL structures for author, search, comments, pagination and feed pages.
 
 == Description ==
-[*Español*](http://wordpress.org/plugins/custom-base-terms/) - [*English*](http://goo.gl/CKlRqe) - [*Italiano*](http://goo.gl/T3KW84) - [*Français*](http://goo.gl/eV2eGj) - [*Deutsch*](http://goo.gl/EtiDZq) 
+**Custom Base Terms** adds five new options to *Settings -> Permalinks* where you can set the custom URL structures for the author, search, comments, pagination and feed pages.
 
-**Custom Base Terms** genera cinco nuevas opciones en *Ajustes -> Enlaces permanentes* donde se podrán introducir las estructuras personalizadas en las URLs para autor, búsqueda, comentarios, página y feed.
+= Features =
+* Simple and easy to configure.
+* Lets you build friendly URLs.
+* Helps improve your WordPress SEO.
+* Multilingual. Supports every native WordPress language.
 
-= Características =
-* Simple y sencillo de configurar.
-* Permite crear URLs Friendly.
-* Ayuda a mejorar el SEO de WordPress.
-* Multilenguaje. Soporta todos los idiomas nativos de WordPress.
+= Translations =
+* English: by [Art Project Group](https://artprojectgroup.es/) (default language).
+* Spanish: by [Art Project Group](https://artprojectgroup.es/).
 
-= Traducciones =
-* Español ([**Art Project Group**](https://artprojectgroup.es/)).
-* English ([**Art Project Group**](https://artprojectgroup.es/)).
+= Technical support =
+**Art Project Group** offers [**Technical support**](https://artprojectgroup.es/tienda/ticket-de-soporte) to configure or install **Custom Base Terms**.
 
-= Soporte técnico =
-**Art Project Group** te ofrece [**Soporte técnico**](https://artprojectgroup.es/tienda/ticket-de-soporte) para configurar o instalar **Custom Base Terms**. 
+= Origin =
+**Custom Base Terms** has been programmed from the [*Custom Author Base*](https://wordpress.org/plugins/custom-author-base/) plugin by [Jeff Farthing](https://profiles.wordpress.org/jfarthing84/), which, even being a magnificent plugin, did not offer all the features we needed. His work has been absolutely essential to build this plugin.
 
-= Origen =
-**Custom Base Terms** ha sido programado a partir del plugin [*Custom Author Base*](http://wordpress.org/plugins/custom-author-base/) de [Jeff Farthing](http://profiles.wordpress.org/jfarthing84/), que aún siendo un magnífico plugin no ofrecía todas las características que necesitábamos. Aún así su trabajo ha sido completamente imprescindible para la realización de este plugin.
+= More information =
+You can learn more about **Custom Base Terms** on our [official website](https://artprojectgroup.es/plugins-para-wordpress/custom-base-terms), and follow the development on [GitHub](https://github.com/artprojectgroup/custom-base-terms).
 
-= Más información =
-En nuestro sitio web oficial puede obtener más información sobre [**Custom Base Terms**](https://artprojectgroup.es/plugins-para-wordpress/custom-base-terms). 
-
-= Comentarios =
-No olvides dejarnos tu comentario en:
-
-* [Custom Base Terms](https://artprojectgroup.es/plugins-para-wordpress/custom-base-terms) en Art Project Group.
-* [Art Project Group](https://www.facebook.com/artprojectgroup) en Facebook.
-* [@artprojectgroup](https://twitter.com/artprojectgroup) en Twitter.
-* [+ArtProjectGroupES](https://plus.google.com/+ArtProjectGroupES/) en Google+.
-
-= Más plugins =
-Recuerda que puedes encontrar más [plugins para WordPress](https://artprojectgroup.es/plugins-para-wordpress) en [Art Project Group](https://artprojectgroup.es) y en nuestro perfil en [WordPress](http://profiles.wordpress.org/artprojectgroup/).
-
-= GitHub =
-Puedes seguir el desarrollo de este plugin en [Github](https://github.com/artprojectgroup/custom-base-terms).
+= More plugins =
+You can find more [WordPress plugins](https://artprojectgroup.es/plugins-para-wordpress) at [Art Project Group](https://artprojectgroup.es) and on our [WordPress profile](https://profiles.wordpress.org/artprojectgroup/).
 
 == Installation ==
-1. Puedes:
- * Subir la carpeta `custom-base` al directorio `/wp-content/plugins/` vía FTP. 
- * Subir el archivo ZIP completo vía *Plugins -> Añadir nuevo -> Subir* en el Panel de Administración de tu instalación de WordPress.
- * Buscar **Custom Base Terms** en el buscador disponible en *Plugins -> Añadir nuevo* y pulsar el botón *Instalar ahora*.
-2. Activar el plugin a través del menú *Plugins* en el Panel de Administración de WordPress.
-3. Configurar el plugin con el botón *Ajustes* o en *Ajustes -> Enlaces permanentes*.
-4. Listo, ahora ya puedes disfrutar de él, y si te gusta y te resulta útil, hacer una [*donación*](https://artprojectgroup.es/tienda/donacion).
+1. Install the plugin in one of the following ways:
+ * Upload the `custom-base-terms` folder to the `/wp-content/plugins/` directory via FTP.
+ * Upload the full ZIP file via *Plugins -> Add New -> Upload* in the WordPress administration panel.
+ * Search for **Custom Base Terms** in *Plugins -> Add New* and click *Install Now*.
+2. Activate the plugin through the *Plugins* menu in the WordPress administration panel.
+3. Configure the plugin with the *Settings* link on the plugins page or in *Settings -> Permalinks*.
+4. That's it. If you like it and find it useful, please consider making a [*donation*](https://artprojectgroup.es/tienda/donacion).
 
-== Frequently asked questions ==
-= ¿Cómo se configura? =
-Sólo hay que pulsar el botón *Ajustes*, o ir a *Ajustes -> Enlaces permanentes* e indicar las nuevas estructuras personalizadas en las URLs para autor, búsqueda, comentarios y página, al igual que para categoría y etiqueta.
+== Frequently Asked Questions ==
+= How do I configure the plugin? =
+Click the *Settings* link, or go to *Settings -> Permalinks*, and enter the custom URL structures for the author, search, comments, pagination and feed pages.
 
-= Soporte técnico =
-Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Project Group** te ofrece su servicio de [**Soporte técnico**](https://artprojectgroup.es/tienda/ticket-de-soporte). 
+= What happens if I leave a field empty? =
+The base goes back to the one WordPress uses by default for that term.
 
-*En ningún caso **Art Project Group** proporciona ningún tipo de soporte técnico gratuito.*
+= Do I need to flush the permalinks after changing a base? =
+No. The plugin rebuilds the rewrite rules itself when you save the permalinks page.
+
+= Technical support =
+If you need help to configure or install **Custom Base Terms**, **Art Project Group** offers its [**Technical support**](https://artprojectgroup.es/tienda/ticket-de-soporte) service.
+
+*In no case does **Art Project Group** provide any kind of free technical support.*
 
 == Screenshots ==
-1. Captura de pantalla de **Custom Base Terms**.
+1. Screenshot of **Custom Base Terms**.
 
 == Changelog ==
+= 1.1.1 =
+* Added the license to the plugin header, and the plugin prefix to its global constants and variables.
+* Removed the manual translation loading, discouraged since WordPress 4.6. Translations keep coming from the WordPress.org language packs.
+* The plugin page on WordPress.org is now written in English.
 = 1.1.0 =
-* Arreglo de seguridad: cualquier usuario identificado, o un sitio externo mediante CSRF, podía cambiar las bases de los enlaces permanentes del sitio.
-* Arreglo de seguridad: escapado de todas las salidas y eliminado el uso de unserialize() sobre la respuesta remota de WordPress.org.
-* Las estrellas de puntuación ya no desaparecen ni provocan un aviso de PHP cuando la API de WordPress.org no responde.
-* Las etiquetas de los campos y el botón de soporte ya se traducen.
-* La hoja de estilo sólo se carga en las pantallas donde el plugin pinta algo.
-* Compatible con WordPress 7.2.
+* Security fix: any logged-in user, or an external site through CSRF, could change the permalink bases of the site.
+* Security fix: every output is escaped and the remote WordPress.org response is no longer passed through unserialize().
+* The rating stars no longer disappear nor raise a PHP notice when the WordPress.org API does not answer.
+* The field labels and the support link are now translated.
+* The stylesheet is only loaded on the screens where the plugin displays something.
+* Compatible with WordPress 7.2.
 = 1.0.3 =
-* Actualización de seguridad para eliminar una vulnerabilidad Cross-Site Scripting (XSS) detectada.
+* Security update to remove a detected Cross-Site Scripting (XSS) vulnerability.
 = 1.0.2.3 =
-* Actualización de cabecera.
-* Actualización de hoja de estilo.
-* Actualización de captura de pantalla.
+* Header update.
+* Stylesheet update.
+* Screenshot update.
 = 1.0.2.2 =
-* Pequeñas modificaciones de código.
+* Minor code changes.
 = 1.0.2.1 =
-* Pequeñas modificaciones de código.
+* Minor code changes.
 = 1.0.2 =
-* Arreglo de localización.
-* Actualización de cabecera.
-* Actualización de hoja de estilo.
-* Actualización de captura de pantalla.
+* Localization fix.
+* Header update.
+* Stylesheet update.
+* Screenshot update.
 = 1.0.1.1 =
-* Actualización de enlaces de soporte y pequeñas actualizaciones.
+* Support links update and minor changes.
 = 1.0.1 =
-* Actualización del paquete de fuentes. Nuevo icono de Google+.
-* Actualización de las traducciones.
+* Font package update. New Google+ icon.
+* Translations update.
 = 1.0 =
-* Actualización de las traducciones.
-* Nueva hoja de estilo sensible.
-* Modificación de la estructura interna del plugin para ajustarse a los estándares de WordPress.
-* Actualización de la captura de pantalla.
+* Translations update.
+* New responsive stylesheet.
+* Internal structure reworked to follow the WordPress standards.
+* Screenshot update.
 = 0.7.3 =
-* Arreglo de error que borraba toda la configuración al desactivar el plugin.
-* Corrección menor que evita la aparición de un código de error al recopilar información sobre el plugin.
+* Fixed a bug that deleted the whole configuration when the plugin was deactivated.
+* Minor fix that prevents an error code when collecting the plugin information.
 = 0.7.2 =
-* Cambio del enlace de donación.
+* Donation link change.
 = 0.7.1 =
-* Corrección menor que evita la aparición de un código de error al recopilar información sobre el plugin.
+* Minor fix that prevents an error code when collecting the plugin information.
 = 0.7 =
-* Añadida caché para los datos externos.
-* Añadida función que limpia la caché cuando se borra el plugin.
-* Cambio del botón y enlace de donación.
+* Added a cache for the external data.
+* Added a function that clears the cache when the plugin is deleted.
+* Donation button and link change.
 = 0.6 =
-* Actualización de las hojas de estilo acorde al nuevo WordPress 8.
+* Stylesheets updated for the new WordPress 8.
 = 0.5 =
-* Inclusión de nuevos botones.
-* Añadido el campo Feed base.
+* New buttons added.
+* Added the Feed base field.
 = 0.4 =
-* Inclusión del botón Ajustes.
-* Actualización de los idiomas.
+* Settings button added.
+* Languages update.
 = 0.3 =
-* Pequeñas modificaciones de código.
-* Inclusión de enlaces.
-* Actualización de los textos de información.
-* Opción multilenguaje. 
+* Minor code changes.
+* Links added.
+* Information texts update.
+* Multilingual option.
 = 0.2 =
-* Arreglo de pequeños errores en el código fuente.
+* Fixed minor errors in the source code.
 = 0.1 =
-* Versión inicial.
+* Initial version.
 
 == Upgrade Notice ==
+= 1.1.1 =
+* Maintenance release for the WordPress.org plugin review requirements. Coming from 1.0.3 or earlier, it also carries the security fixes of 1.1.0.
 = 1.1.0 =
-* Actualización de seguridad que impide que cualquier usuario identificado pueda cambiar las bases de los enlaces permanentes del sitio.
+* Security update that prevents any logged-in user from changing the permalink bases of the site. Recommended for every site.
 
-== Traducciones ==
+== Translations ==
 * *English*: by [**Art Project Group**](https://artprojectgroup.es/) (default language).
 * *Español*: por [**Art Project Group**](https://artprojectgroup.es/).
 
-== Soporte técnico ==
-Dado que **Custom Base Terms** es totalmente gratuito, **Art Project Group** sólo proporciona el servicio de [**Soporte técnico**](https://artprojectgroup.es/tienda/ticket-de-soporte) previo pago. En ningún caso **Art Project Group** proporciona ningún tipo de soporte técnico gratuito.
+== Support ==
+Since **Custom Base Terms** is completely free, **Art Project Group** only provides the service of [**Technical support**](https://artprojectgroup.es/tienda/ticket-de-soporte) upon payment. In no case does **Art Project Group** provide any kind of free technical support.
 
-== ¿Por qué está esta página en español? ==
-Mientras WordPress no nos permita a los desarrolladores realizar esta página en más de un idioma, elegiremos siempre el español.
+== Donation ==
+Did you like **Custom Base Terms** and find it useful on your website? We would appreciate a [small donation](https://artprojectgroup.es/tienda/donacion) that will help us keep improving this plugin and creating more completely free plugins for the whole WordPress community.
 
-A pesar de que es una apuesta muy arriesgada y de que reduce mucho las posibilidades de propagación de nuestros plugins, creemos que la comunidad hispana de WordPress es lo suficientemente amplia como para abocarla al idioma inglés hasta el final de los tiempos.
+== Thanks ==
+* To [Jeff Farthing](https://profiles.wordpress.org/jfarthing84/) for his great plugin, which inspired **Custom Base Terms**.
+* To all of you who use it.
+* To all of you who help to improve it.
+* To all of you who make donations.
+* To all of you who encourage us with your comments.
 
-Por ello regalamos a esa gran comunidad hispana nuestros plugins con interfaces, instrucciones, tutoriales, soporte y páginas web en *WordPress.org* en español.
-
-Esperamos que os guste nuestra iniciativa.
-
-== Donación ==
-¿Te ha gustado y te ha resultado útil **Custom Base Terms** en tu sitio web? Te agradeceríamos una [pequeña donación](https://artprojectgroup.es/tienda/donacion) que nos ayudará a seguir mejorando este plugin y a crear más plugins totalmente gratuitos para toda la comunidad WordPress.
-
-== Gracias ==
-* A [Jeff Farthing](http://profiles.wordpress.org/jfarthing84/) por su gran plugin que ha inspirado **Custom Base Terms**.
-* A todos los que lo usáis.
-* A todos los que ayudáis a mejorarlo.
-* A todos los que realizáis donaciones.
-* A todos los que nos animáis con vuestros comentarios.
-
-¡Muchas gracias a todos!
+Thank you all so much!

@@ -4,7 +4,7 @@ Contributors: artprojectgroup
 
 Donate link: https://artprojectgroup.es/tienda/donacion
 
-Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
+Tags: permalinks, author, search, comments, pagination
 
 Requires at least: 5.0
 
@@ -12,11 +12,11 @@ Tested up to: 7.2
 
 Requires PHP: 7.4
 
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 
-License: GPLv3
+License: GNU General Public License v3 or later
 
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Modifique las estructuras personalizadas en las URLs para autor, búsqueda, comentarios, página y feed.
 
@@ -91,6 +91,12 @@ Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Proje
 *En ningún caso **Art Project Group** proporciona ningún tipo de soporte técnico gratuito.*
 
 ## Changelog
+
+### 1.1.1
+
+- Añadida la licencia a la cabecera del plugin, y el prefijo del plugin a sus constantes y variables globales.
+- Eliminada la carga manual de traducciones, desaconsejada desde WordPress 4.6. Las traducciones siguen llegando desde los paquetes de idioma de WordPress.org.
+- La página del plugin en WordPress.org pasa a estar escrita en inglés.
 
 ### 1.1.0
 
@@ -199,16 +205,6 @@ Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Proje
 ## Soporte técnico
 
 Dado que **Custom Base Terms** es totalmente gratuito, **Art Project Group** sólo proporciona el servicio de [**Soporte técnico**](https://artprojectgroup.es/tienda/ticket-de-soporte) previo pago. En ningún caso **Art Project Group** proporciona ningún tipo de soporte técnico gratuito.
-
-## ¿Por qué está esta página en español?
-
-Mientras WordPress no nos permita a los desarrolladores realizar esta página en más de un idioma, elegiremos siempre el español.
-
-A pesar de que es una apuesta muy arriesgada y de que reduce mucho las posibilidades de propagación de nuestros plugins, creemos que la comunidad hispana de WordPress es lo suficientemente amplia como para abocarla al idioma inglés hasta el final de los tiempos.
-
-Por ello regalamos a esa gran comunidad hispana nuestros plugins con interfaces, instrucciones, tutoriales, soporte y páginas web en *WordPress.org* en español.
-
-Esperamos que os guste nuestra iniciativa.
 
 ## Donación
 
