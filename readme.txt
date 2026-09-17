@@ -2,9 +2,10 @@
 Contributors: artprojectgroup
 Donate link: https://artprojectgroup.es/tienda/donacion
 Tags: permalinks, author, search, comments, pagination, page, sep, url friendly
-Requires at least: 2.7
-Tested up to: 6.2
-Stable tag: 1.0.3
+Requires at least: 5.0
+Tested up to: 7.2
+Requires PHP: 7.4
+Stable tag: 1.1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -13,7 +14,7 @@ Modifique las estructuras personalizadas en las URLs para autor, búsqueda, come
 == Description ==
 [*Español*](http://wordpress.org/plugins/custom-base-terms/) - [*English*](http://goo.gl/CKlRqe) - [*Italiano*](http://goo.gl/T3KW84) - [*Français*](http://goo.gl/eV2eGj) - [*Deutsch*](http://goo.gl/EtiDZq) 
 
-**Custom Base Terms** genera cuatro nuevas opciones en *Ajustes -> Enlaces permanentes* donde se podrán introducir las estructuras personalizadas en las URLs para autor, búsqueda, comentarios, página y feed.
+**Custom Base Terms** genera cinco nuevas opciones en *Ajustes -> Enlaces permanentes* donde se podrán introducir las estructuras personalizadas en las URLs para autor, búsqueda, comentarios, página y feed.
 
 = Características =
 * Simple y sencillo de configurar.
@@ -70,6 +71,13 @@ Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Proje
 1. Captura de pantalla de **Custom Base Terms**.
 
 == Changelog ==
+= 1.1.0 =
+* Arreglo de seguridad: cualquier usuario identificado, o un sitio externo mediante CSRF, podía cambiar las bases de los enlaces permanentes del sitio.
+* Arreglo de seguridad: escapado de todas las salidas y eliminado el uso de unserialize() sobre la respuesta remota de WordPress.org.
+* Las estrellas de puntuación ya no desaparecen ni provocan un aviso de PHP cuando la API de WordPress.org no responde.
+* Las etiquetas de los campos y el botón de soporte ya se traducen.
+* La hoja de estilo sólo se carga en las pantallas donde el plugin pinta algo.
+* Compatible con WordPress 7.2.
 = 1.0.3 =
 * Actualización de seguridad para eliminar una vulnerabilidad Cross-Site Scripting (XSS) detectada.
 = 1.0.2.3 =
@@ -125,10 +133,10 @@ Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Proje
 * Versión inicial.
 
 == Upgrade Notice ==
-= 1.0.3 =
-* Actualización de seguridad para eliminar una vulnerabilidad Cross-Site Scripting (XSS) detectada.
+= 1.1.0 =
+* Actualización de seguridad que impide que cualquier usuario identificado pueda cambiar las bases de los enlaces permanentes del sitio.
 
-==Traducciones ==
+== Traducciones ==
 * *English*: by [**Art Project Group**](https://artprojectgroup.es/) (default language).
 * *Español*: por [**Art Project Group**](https://artprojectgroup.es/).
 
