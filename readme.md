@@ -12,7 +12,7 @@ Tested up to: 7.2
 
 Requires PHP: 7.4
 
-Stable tag: 1.1.1
+Stable tag: 1.2.0
 
 License: GNU General Public License v3 or later
 
@@ -32,6 +32,7 @@ Modifique las estructuras personalizadas en las URLs para autor, búsqueda, come
 - Permite crear URLs Friendly.
 - Ayuda a mejorar el SEO de WordPress.
 - Multilenguaje. Soporta todos los idiomas nativos de WordPress.
+- Ayuda contextual en la pantalla de enlaces permanentes, que explica cada campo sin salir de ella.
 
 ### Traducciones
 
@@ -40,7 +41,7 @@ Modifique las estructuras personalizadas en las URLs para autor, búsqueda, come
 
 ### Soporte técnico
 
-**Art Project Group** te ofrece [**Soporte técnico**](https://artprojectgroup.es/tienda/ticket-de-soporte) para configurar o instalar **Custom Base Terms**. 
+**Art Project Group** te ofrece [**Soporte técnico**](https://artprojectgroup.es/tienda/soporte-tecnico) para configurar o instalar **Custom Base Terms**. 
 
 ### Origen
 
@@ -49,6 +50,8 @@ Modifique las estructuras personalizadas en las URLs para autor, búsqueda, come
 ### Más información
 
 En nuestro sitio web oficial puede obtener más información sobre [**Custom Base Terms**](https://artprojectgroup.es/plugins-para-wordpress/custom-base-terms). 
+
+Tienes la [documentación completa](https://artprojectgroup.es/documentacion/custom-base-terms), con cada campo explicado uno a uno.
 
 ### Comentarios
 
@@ -86,11 +89,15 @@ Sólo hay que pulsar el botón *Ajustes*, o ir a *Ajustes -> Enlaces permanentes
 
 ### Soporte técnico
 
-Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Project Group** te ofrece su servicio de [**Soporte técnico**](https://artprojectgroup.es/tienda/ticket-de-soporte). 
+Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Project Group** te ofrece su servicio de [**Soporte técnico**](https://artprojectgroup.es/tienda/soporte-tecnico). 
 
 *En ningún caso **Art Project Group** proporciona ningún tipo de soporte técnico gratuito.*
 
 ## Changelog
+
+### 1.2.0
+
+- Ayuda contextual en la pantalla de enlaces permanentes, que explica cada campo sin salir de ella.
 
 ### 1.1.1
 
@@ -204,7 +211,7 @@ Si necesitas ayuda para configurar o instalar **Custom Base Terms**, **Art Proje
 
 ## Soporte técnico
 
-Dado que **Custom Base Terms** es totalmente gratuito, **Art Project Group** sólo proporciona el servicio de [**Soporte técnico**](https://artprojectgroup.es/tienda/ticket-de-soporte) previo pago. En ningún caso **Art Project Group** proporciona ningún tipo de soporte técnico gratuito.
+Dado que **Custom Base Terms** es totalmente gratuito, **Art Project Group** sólo proporciona el servicio de [**Soporte técnico**](https://artprojectgroup.es/tienda/soporte-tecnico) previo pago. En ningún caso **Art Project Group** proporciona ningún tipo de soporte técnico gratuito.
 
 ## Donación
 

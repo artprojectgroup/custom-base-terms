@@ -47,6 +47,7 @@ msgid "Support"
 msgstr ""
 
 #: custom-base.php:114 custom-base.php:136
+#: includes/clases/class-custom-base-terms-help.php
 msgid "Custom Base Terms"
 msgstr ""
 
@@ -55,6 +56,7 @@ msgid "These settings added by <strong class=\"artprojectgroup\">APG</strong> co
 msgstr ""
 
 #: custom-base.php:154
+#: includes/clases/class-custom-base-terms-help.php
 msgid "Author base"
 msgstr ""
 
@@ -63,6 +65,7 @@ msgid "Base for the author permalink structure (example.com/author/authorname)."
 msgstr ""
 
 #: custom-base.php:158
+#: includes/clases/class-custom-base-terms-help.php
 msgid "Search base"
 msgstr ""
 
@@ -71,6 +74,7 @@ msgid "Base of the search permalink structure (example.com/search/query)."
 msgstr ""
 
 #: custom-base.php:162
+#: includes/clases/class-custom-base-terms-help.php
 msgid "Comments base"
 msgstr ""
 
@@ -79,6 +83,7 @@ msgid "Comments permalink base."
 msgstr ""
 
 #: custom-base.php:166
+#: includes/clases/class-custom-base-terms-help.php
 msgid "Pagination base"
 msgstr ""
 
@@ -87,6 +92,7 @@ msgid "Pagination permalink base."
 msgstr ""
 
 #: custom-base.php:170
+#: includes/clases/class-custom-base-terms-help.php
 msgid "Feed base"
 msgstr ""
 
@@ -133,4 +139,36 @@ msgstr ""
 
 #. Author URI of the plugin
 msgid "https://artprojectgroup.es/"
+msgstr ""
+
+#: includes/clases/class-custom-base-terms-help.php
+msgid "Full documentation"
+msgstr ""
+
+#: includes/clases/class-custom-base-terms-help.php
+msgid "the word in the address of an author's page, example.com/author/name. Change it to autor, redactor or whatever your readers understand."
+msgstr ""
+
+#: includes/clases/class-custom-base-terms-help.php
+msgid "the word in the address of a search, example.com/search/what-was-searched."
+msgstr ""
+
+#: includes/clases/class-custom-base-terms-help.php
+msgid "the word in the address of the comments pages."
+msgstr ""
+
+#: includes/clases/class-custom-base-terms-help.php
+msgid "the word that numbers the pages of a listing, example.com/blog/page/2."
+msgstr ""
+
+#: includes/clases/class-custom-base-terms-help.php
+msgid "the word in the address of the feeds, example.com/feed."
+msgstr ""
+
+#: includes/clases/class-custom-base-terms-help.php
+msgid "These five fields replace the words WordPress puts in its own addresses, the ones that are in English whatever language your site is in. They are the same permalinks, with your words."
+msgstr ""
+
+#: includes/clases/class-custom-base-terms-help.php
+msgid "Leave a field empty and that term goes back to the word WordPress uses, which is the one shown in grey inside the field. Changing any of them changes the addresses of those pages, so the old ones stop working: on a site that is already published, set up a redirect from the old word to the new one."
 msgstr ""

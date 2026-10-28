@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Custom Base Terms
-Version: 1.1.1
+Version: 1.2.0
 Plugin URI: https://wordpress.org/plugins/custom-base-terms/
 Description: With Custom Base Terms you can create a custom structures for URLs in author, search, comments and page. Created from <a href="https://profiles.wordpress.org/jfarthing84/" target="_blank">Jeff Farthing</a> <a href="https://wordpress.org/plugins/custom-author-base/" target="_blank"><strong>Custom Author Base</strong></a> plugin.
 Author: Art Project Group
@@ -27,7 +27,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 //Definimos constantes
 define( 'CUSTOM_BASE_TERMS_DIRECCION', plugin_basename( __FILE__ ) );
-define( 'CUSTOM_BASE_TERMS_VERSION', '1.1.1' );
+define( 'CUSTOM_BASE_TERMS_VERSION', '1.2.0' );
 
 //Definimos las variables
 $custom_base_terms = array( 	
@@ -133,6 +133,22 @@ function custom_base_terms_enlaces_permanentes() {
 	add_settings_section( 'custom_base_terms-permalink', __( 'Custom Base Terms', 'custom-base-terms' ), 'custom_base_terms_seccion', 'permalink' );
 }
 add_action( 'load-options-permalink.php', 'custom_base_terms_enlaces_permanentes' );
+
+/* Ayuda contextual. Va en admin_head y no en load-options-permalink.php porque la pantalla de
+enlaces permanentes monta su propia ayuda dentro de options-permalink.php, que se ejecuta despues
+de ese hook: enganchando antes, el panel se colaba delante de los del nucleo y el lateral se
+perdia al sobrescribirlo WordPress con el suyo. */
+function custom_base_terms_ayuda() {
+	$pantalla = get_current_screen();
+
+	if ( ! $pantalla || 'options-permalink' !== $pantalla->id ) {
+		return;
+	}
+
+	include_once plugin_dir_path( __FILE__ ) . 'includes/clases/class-custom-base-terms-help.php';
+	Custom_Base_Terms_Help::add_tabs();
+}
+add_action( 'admin_head', 'custom_base_terms_ayuda' );
 
 //Añadimos la nueva sección
 function custom_base_terms_seccion() {

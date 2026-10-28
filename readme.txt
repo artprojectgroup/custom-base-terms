@@ -5,7 +5,7 @@ Tags: permalinks, author, search, comments, pagination
 Requires at least: 5.0
 Tested up to: 7.2
 Requires PHP: 7.4
-Stable tag: 1.1.1
+Stable tag: 1.2.0
 License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -25,13 +25,15 @@ Change the custom URL structures for author, search, comments, pagination and fe
 * Spanish: by [Art Project Group](https://artprojectgroup.es/).
 
 = Technical support =
-**Art Project Group** offers [**Technical support**](https://artprojectgroup.es/tienda/ticket-de-soporte) to configure or install **Custom Base Terms**.
+**Art Project Group** offers [**Technical support**](https://artprojectgroup.es/tienda/soporte-tecnico) to configure or install **Custom Base Terms**.
 
 = Origin =
 **Custom Base Terms** has been programmed from the [*Custom Author Base*](https://wordpress.org/plugins/custom-author-base/) plugin by [Jeff Farthing](https://profiles.wordpress.org/jfarthing84/), which, even being a magnificent plugin, did not offer all the features we needed. His work has been absolutely essential to build this plugin.
 
 = More information =
 You can learn more about **Custom Base Terms** on our [official website](https://artprojectgroup.es/plugins-para-wordpress/custom-base-terms), and follow the development on [GitHub](https://github.com/artprojectgroup/custom-base-terms).
+
+You can also read the [full documentation](https://artprojectgroup.es/documentacion/custom-base-terms), with every field explained one by one.
 
 = More plugins =
 You can find more [WordPress plugins](https://artprojectgroup.es/plugins-para-wordpress) at [Art Project Group](https://artprojectgroup.es) and on our [WordPress profile](https://profiles.wordpress.org/artprojectgroup/).
@@ -56,7 +58,7 @@ The base goes back to the one WordPress uses by default for that term.
 No. The plugin rebuilds the rewrite rules itself when you save the permalinks page.
 
 = Technical support =
-If you need help to configure or install **Custom Base Terms**, **Art Project Group** offers its [**Technical support**](https://artprojectgroup.es/tienda/ticket-de-soporte) service.
+If you need help to configure or install **Custom Base Terms**, **Art Project Group** offers its [**Technical support**](https://artprojectgroup.es/tienda/soporte-tecnico) service.
 
 *In no case does **Art Project Group** provide any kind of free technical support.*
 
@@ -64,6 +66,8 @@ If you need help to configure or install **Custom Base Terms**, **Art Project Gr
 1. Screenshot of **Custom Base Terms**.
 
 == Changelog ==
+= 1.2.0 =
+* Contextual help on the permalinks screen, explaining every field without leaving it.
 = 1.1.1 =
 * Added the license to the plugin header, and the plugin prefix to its global constants and variables.
 * Removed the manual translation loading, discouraged since WordPress 4.6. Translations keep coming from the WordPress.org language packs.
@@ -140,7 +144,7 @@ If you need help to configure or install **Custom Base Terms**, **Art Project Gr
 * *Español*: por [**Art Project Group**](https://artprojectgroup.es/).
 
 == Support ==
-Since **Custom Base Terms** is completely free, **Art Project Group** only provides the service of [**Technical support**](https://artprojectgroup.es/tienda/ticket-de-soporte) upon payment. In no case does **Art Project Group** provide any kind of free technical support.
+Since **Custom Base Terms** is completely free, **Art Project Group** only provides the service of [**Technical support**](https://artprojectgroup.es/tienda/soporte-tecnico) upon payment. In no case does **Art Project Group** provide any kind of free technical support.
 
 == Donation ==
 Did you like **Custom Base Terms** and find it useful on your website? We would appreciate a [small donation](https://artprojectgroup.es/tienda/donacion) that will help us keep improving this plugin and creating more completely free plugins for the whole WordPress community.
